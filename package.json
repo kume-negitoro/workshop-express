@@ -4,6 +4,7 @@
   "description": "A repository for the express workshop in Beacon Fun 4.",
   "main": "index.js",
   "scripts": {
+    "start": "ts-node src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
