@@ -11,6 +11,7 @@
   "author": "kume-negitoro",
   "license": "MIT",
   "devDependencies": {
+    "@types/express": "^4.17.7",
     "@types/jest": "^26.0.10",
     "@types/node": "^14.0.27",
     "@typescript-eslint/eslint-plugin": "^3.9.0",
@@ -27,5 +28,8 @@
     "ts-jest": "^26.2.0",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
